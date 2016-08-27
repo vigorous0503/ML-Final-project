@@ -1,12 +1,13 @@
 ## README
    This is my Machine Learning final project.
-   Project name is " Handwriting detection and evaluation"
+   
+   The Project name is " Handwriting detection and evaluation"
 
 ## Flow chart of all system
 ![](https://github.com/vigorous0503/ML-Final-project/blob/master/flow.PNG)
 ## Flow chart of formula analysis
 ![](https://github.com/vigorous0503/ML-Final-project/blob/master/flow2.PNG)
-***********readme************
+
 
 1、主程式在main.m檔案
 
