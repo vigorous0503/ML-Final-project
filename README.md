@@ -1,4 +1,4 @@
-### README
+## README
    This is my Machine Learning final project.
    
    The Project name is " Handwriting detection and evaluation"
